@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Utsavgraphy</title>
+        <title>Comics | Utsavgraphy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to Utsavgraphy!
+          Welcome to the world of Comics!
         </h1>
       </main>
 
